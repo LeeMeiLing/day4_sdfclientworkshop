@@ -58,7 +58,7 @@ public final class App {
             }
 
         } catch (EOFException ex) {
-            socket.close();cd
+            socket.close();
         }
 
     }
